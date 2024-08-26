@@ -1,7 +1,2 @@
 changes made in master
 changing made in staging
-<<<<<<< HEAD
-master second change
-=======
-staging second change
->>>>>>> staging
