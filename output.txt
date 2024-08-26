@@ -5,3 +5,4 @@ master change
 =======
 staging change
 >>>>>>> staging
+new change
