@@ -2,7 +2,6 @@ changes made in master
 changing made in staging
 <<<<<<< HEAD
 master change
-=======
 staging change
 >>>>>>> staging
 new change
