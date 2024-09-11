@@ -2,5 +2,4 @@ changes made in master
 changing made in staging
 master change
 staging change
->>>>>>> staging
 new change
